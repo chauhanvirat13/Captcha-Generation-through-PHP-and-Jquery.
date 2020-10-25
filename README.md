@@ -1,2 +1,1 @@
-Captcha generation
-# Captcha-Generation-through-PHP-and-Jquery.
+# PHP-Captcha-Generation-Image
